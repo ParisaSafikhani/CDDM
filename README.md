@@ -119,7 +119,7 @@ If you use this code in your research, please cite our paper:
   title={AutoML Meets Hugging Face: Domain-Aware Pretrained Model Selection for Text Classification},
   author={Safikhani, Parisa and Broneske, David},
   booktitle={},
-  year={2023}
+  year={2024}
 }
 ```
 
