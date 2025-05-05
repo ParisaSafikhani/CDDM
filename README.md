@@ -115,11 +115,12 @@ The CDDM framework implements a modular approach to domain-aware model selection
 If you use this code in your research, please cite our paper:
 
 ```
-@inproceedings{safikhani2023automl,
+@inproceedings{safikhani2025automl,
   title={AutoML Meets Hugging Face: Domain-Aware Pretrained Model Selection for Text Classification},
   author={Safikhani, Parisa and Broneske, David},
-  booktitle={},
-  year={2024}
+  booktitle={Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop)},
+  pages={466--473},
+  year={2025}
 }
 ```
 
